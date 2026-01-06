@@ -63,7 +63,7 @@ FILE_OUTPUT = 'laporan_supply_demand.txt' # Ini hasil output yang akan keluar
 ### Langkah 3: Jalan FIle
 Buka file `filter_items_pro.py` Jalankan program dengan ketik di terminal :
 ```python
-python market_analyzer.py
+python filter_items_pro.py
 ```
 
 ### Langkah 4: File generated
