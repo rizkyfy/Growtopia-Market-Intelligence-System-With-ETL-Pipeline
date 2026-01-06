@@ -53,7 +53,7 @@ Gunakan **DiscordChatExporter** untuk mengambil history chat dari channel jual-b
 * Simpan file tersebut dengan nama `data_chat.json` di dalam folder project ini.
 
 ### Langkah 2: Konfigurasi Script
-Buka file `filter_items_pro.py` dan sesuaikan konfigurasi jika perlu (misalnya tanggal filter):
+Buka file `filter_items_pro.py` dan sesuaikan konfigurasi jika perlu:
 
 ```python
 FILE_CHAT   = 'data_chat.json' #Bisa Di edit sesuaikan data yang udah di scrap dari discord
